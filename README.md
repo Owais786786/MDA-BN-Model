@@ -12,10 +12,12 @@ Instructions
 How to run this code ???
 
 Step 1: Open the given code file named as "Proposed_MDA_BN_Model_Code.m" in Matlab (preferably matlab version is R2020b)
+
 Step 2: Run this code (press F5), After execution, the code will required a user input (either 0 or 1) in a window box
 
 Note:
 ->If you want to test our model for a single modality data: Enter 0 in window box and press enter
   After that select either x-ray or CT image from the given data folder namely "Sample Dataset"
+
 ->If you want to test our model for Heterogeneous Data: Enter 1 in window box and press enter
   After that select both x-ray and CT images one by one from the given data folder namely "Sample Dataset"
